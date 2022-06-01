@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @puneetgoyal456
+- 👋 Hi, I’m Puneet Goyal
 - 👀 I’m interested in Web & App Development
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on Web Develpment
