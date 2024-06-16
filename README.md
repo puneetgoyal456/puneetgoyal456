@@ -2,11 +2,11 @@
 <h2 align="center">Full Stack developer || student</h2>
 
 <h2 align="left">💫 About Me:</h2>
-- 👀 I’m interested in **Web & App Development**
-- 🌱 I’m currently learning **Backend**
-- 💬 Ask me about **Front-end and programming Languages**
-- 💞️ I’m looking to collaborate on Web Develpment
-- 📫 How to reach me : **kumar.goyal.puneet@gmail.com**
+- 👀 I’m interested in **Web & App Development** <br>
+- 🌱 I’m currently learning **Backend** <br>
+- 💬 Ask me about **Front-end and programming Languages** <br>
+- 💞️ I’m looking to collaborate on Web development <br>
+- 📫 How to reach me: **kumar.goyal.puneet@gmail.com** <br>
 
 <h2 align="left">🌐 Connect with me:</h2>
 <p align="left">
